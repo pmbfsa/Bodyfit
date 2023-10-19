@@ -1,0 +1,3 @@
+AndroidManifest.template.xml
+
+android:usesCleartextTraffic="true"
