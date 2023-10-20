@@ -67,7 +67,7 @@ Com todas as dependências devidamente instaladas basta realizar o *build*, *com
 ## ✒️ Autores
 
 * **Professor** - *Criação* - [Heber Stein Mazutti](https://br.linkedin.com/in/heber-stein-mazutti-20292922)
-* **Estudante** - *Desenvolviemnto e Documentação* - [Paulo Márcio](https://github.com/pmbfsa)
+* **Estudante** - *Desenvolvimento e Documentação* - [Paulo Márcio](https://github.com/pmbfsa)
 
 ## 📄 Licença
 
